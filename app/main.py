@@ -37,7 +37,7 @@ app.include_router(vote.router)
 
 @app.get("/")
 def root():
-    return{"Hello World all pushing to ubuntu"}
+    return{"Hello World all pushing to github"}
 
 
 
